@@ -1,0 +1,132 @@
+Trainner Diary Online System.
+
+inside the dynamic landscape of present day Human sources management, the efficient and powerful integration of generation has come to be crucial to 
+streamlining methods and growing productiveness. The "Trainner Diary Online System," a digital platform customized for the desires of HR companies in dealing with
+their intern initiatives, is one such innovation. This system represents an essential milestone within the management and monitoring of interns' reports,
+interactions, and growth in the company.
+The Intern Diary Online System offer a comprehensive solution to a number of problems that HR departments encounter frequently when keeping track of the development of
+their interns. It's a centralized platform for interns to interact, track their tasks, reflect on their experiences, and access vital tools. Additionally, 
+HR personnel gain a comprehensive comprehension of the interns' journey, allowing them to provide personalized guidance and support while ensuring alignment with the 
+company's goals and values.
+
+Functions of Trainner Diary Online System :
+ 
+(a)consumer Authentication and Authorization.
+offer user registration and login functionality.
+Differentiate among trainees, trainers, and directors with appropriate get right of entry to ranges.
+
+(b)Trainee Profile management:-
+permit trainees to create and preserve their profiles with non-public facts, contact information, and relevant background.
+enable trainees to update and edit their profiles as wanted.
+
+(c).Diary entry creation and control.
+permit trainees to create day by day or periodic diary entries detailing their activities, tasks, accomplishments, demanding situations, and reflections.
+provide the potential to categorize entries, attach files, and add multimedia elements.
+
+(D)assessment and remarks:
+
+allow running shoes or mentors to study trainee diary entries.
+allow running shoes to provide remarks, feedback, and recommendations on trainee entries.
+
+(E).cellular Compatibility:
+
+make certain the system is obtainable and consumer-pleasant on numerous gadgets, which includes smartphones and capsules.
+
+(F).intention placing and tracking:
+
+enable trainees and running shoes to set and tune education desires.
+permit trainees to align their activities with unique getting to know targets.
+
+(G).communication and Collaboration:
+
+guide conversation between trainees and trainers via messaging or chat functionality.
+allow trainees to collaborate on tasks or obligations and record their collaborative efforts.
+
+(F)Calendar and Scheduling:
+
+offer a calendar function for scheduling responsibilities, assignments, and vital dates.
+allow trainees to set reminders and notifications.
+
+(H).Reporting and Analytics:
+
+Generate reviews on trainee performance, engagement, and development.
+provide analytics to discover tendencies, strengths, and areas for improvement.
+
+(G).Customization:
+
+permit directors to personalize the device's appearance, fields, and functions according to the enterprise's desires.
+
+(H)Backup and healing:
+enforce normal statistics backups to save you lack of trainee diary entries and system statistics.
+
+
+
+  Non Functional Requirements of Trainner Diary Online System:
+
+  Performance:
+   Response Time
+   Scalability
+   Throughput 
+
+  Reliability:
+
+  Availability
+  Fault Tolerance
+
+  Security:
+  Data Privacy
+  Authentication and Authorization 
+  Data Encryption
+
+Compatibility:
+
+ Browser Compatibility: 
+ Device Compatibility: 
+
+Maintainability:
+  Code Maintainability: 
+  Modularity: 
+
+Data Backup and Recovery:
+  Backup Strategy: 
+  Disaster Recovery: 
+
+
+Technical Requirements of Online Trainner Diary System:
+
+ Programming Languages and Frameworks.
+ Server and web hosting environment
+ Security features
+ Backend technology
+ Facts garage and Retrieval.
+
+--------------------------------------
+       Work allocated
+
+ Implementing the Trainner Diary Online System.
+
+ Trainner loging 
+ Listing Down
+   challengers
+   essential meeting                                     
+   projects
+ Setting up reminders
+   set a reminder for destiny undertaking (meetings, project, etc)
+
+
+
+
+   
+ 
+
+
+
+
+  
+   
+  
+
+
+  
+
+

@@ -1,0 +1,174 @@
+Trainee diary Online System, which is handle to help their task, project and meetings during their intern period.
+The Trainner begins by logging in to the system using their valid email with  password. 
+The validity is verified here. If a password is forgotten, it is possible to enter the system by 
+renewing the password and using an item as a forgotten password.
+
+for an example, 25th of September trainee have to do email corresponding, which is status is project. 
+when the trainee can click delete button. The corresponding column will be deleted. and as well when the click the
+edit button, a new form will open as edit details form. There are parameters like Title, Type, Date & Time and Description.
+There, the above mentioned three categories are used as the type. A short description can also be entered for the description.
+
+at the bottom of To-Do list, trainee can see Add Details button. when trainee clicks that button. A new form will open as add details. It is also 
+similar to the add details form. That added details data and edited details data also push into the ToDo List.
+
+
+Also, the Trainee can view  search  function as well in top of the To-Do list. Furthermore, a detailed report can be generated is for each and every trainee 
+who uses this system
+-------------------------------------------------------------------------------------------------------------
+(Grammer check)
+
+Trainee Diary is an online system that helps trainees with tasks, projects, and meetings during their internship period.
+The Trainner begins by logging in to the system using their valid email with  password. 
+The validity is verified here. If a password is forgotten, it is possible to enter the system by 
+Make sure to renew the password and have a backup plan in case you forget it.
+On September 25th, the trainee is required to communicate via email regarding a project status. 
+
+when the trainee can click delete button. The column that matches will be removed. and as well when the click the
+edit button, a new form will open as edit details form. There are parameters like Title, Type, Date & Time and Description.
+There, the above mentioned three categories are used as the type. It is possible to provide a brief description for the description.
+The Add Details button is located at the bottom of the To-Do list for trainees to see. When the trainee clicks on that button. If you add details, a new form 
+will be opened. It is likewise 
+
+Resembles the add details form. The To-Do List was updated with the added and edited details data.
+The trainee can also see the search function at the top of the To-Do list. Furthermore, a detailed report can be generated for each and every trainee. 
+Who uses this system
+-------------------------------------------------------
+  <-- Methodology-->
+
+User Authentication:
+Implement a user authentication system where trainees can log in using their valid email and password.
+Include password recovery functionality for users who forget their passwords.
+
+Task and Project Management:
+Create a section for trainees to manage their tasks, projects, and meetings during their internship.
+Enable trainees to enter and edit project details such as Title, Type, Date & Time, and Description.
+Provide a feature to delete specific entries when necessary.
+
+Email Correspondence:
+Set specific date-based reminders, such as the September 25th requirement for trainees to send project status emails.
+
+Add Details Functionality:
+Add a "Add Details" button at the bottom of the To-Do list.
+When clicked, open a new form for trainees to input additional task or project details.
+
+Search Functionality:
+Include a search function at the top of the To-Do list, allowing trainees to quickly find and filter tasks or projects.
+
+Reporting:
+Develop a reporting feature that can generate detailed reports for each trainee who uses the system.
+
+Data Management:
+Ensure that data is stored securely and efficiently, associating it with the respective trainee's account.
+
+User Interface (UI):
+Create an intuitive and user-friendly interface with clear buttons for adding, editing, deleting, and searching tasks and projects.
+
+
+User Training and Support:
+Provide user documentation and support to assist trainees in effectively using the system.
+
+Scalability and Performance:
+Design the system with scalability in mind to accommodate a growing number of users.
+Ensure the system's performance remains optimal even as the user base expands.
+
+Feedback and Iteration:
+Collect user feedback to make improvements and enhancements to the system based on user needs and suggestions.
+
+Data Backup and Recovery:
+Implement a backup system to safeguard user data and allow for recovery in case of data loss or system failure.
+
+Security:
+Prioritize security measures to protect user information and prevent unauthorized access
+----------------------------------------------------------
+
+Methodology (finalize)
+
+The method used to build the system is called the system development life cycle (SDLC). Included in the SDLC process are project identification and selection, 
+planning and start-up, analysis, design, execution, and maintenance.Here's a methodology for developing this system.
+Implement a user authentication system that allows learners to log in using their legitimate email address and password.
+Provide users with password recovery capabilities in case they lose their credentials.
+When takingProject and Tasks Management, there are
+Make an area where trainees may oversee their assignments, meetings, and projects while doing their internship.
+Give trainees the option to add and modify project data including the description, date and time, type, and title.
+Make it possible to remove particular entries as needed.and aswell, Provide Specifics Functionality.Make the To-Do list's bottom contain a "Add Details" button.
+Click to launch a new form where learners can enter more information on a task or project.their is an Email Correspondence is specifically sector in here.
+Search Functionality,Include a search function at the top of the To-Do list.
+Reporting,Develop a reporting feature that can generate detailed reports for each trainee who uses the system.
+Create an intuitive and user-friendly interface with clear buttons for adding, editing, deleting, and searching tasks and projects in here.
+Security,Prioritize security measures to protect user information and prevent unauthorized access
+---------------------------------
+
+functional requirements
+
+User Authentication:
+The system must allow trainees to register and log in using a valid email and password.
+Passwords must be securely stored and encrypted in the database.
+
+Task and Project Management:
+Trainees should be able to add, edit, and delete tasks and project details, including Title, Type, Date & Time, and Description.
+
+Email Correspondence:
+The system should enable trainees to schedule and manage email correspondences, such as sending project status emails on specific dates.
+Implement email templates or integration for sending project status emails.
+
+Search Functionality:
+Provide a search feature to enable trainees to quickly find and filter tasks or projects based on keywords, dates, or categories.
+Ensure the search results are presented in an organized and user-friendly manner.
+
+Reporting:
+Implement a reporting system that allows trainees to generate detailed reports for their tasks and projects.
+Reports should include information such as completed tasks, pending tasks, project progress, and more.
+
+Non-Functional requirements:
+
+
+Usability:
+User-Friendly Interface: The system should have an intuitive and user-friendly interface, ensuring that trainees can easily navigate and use the 
+application without extensive training.
+
+Performance:
+Response Time-The system should provide quick response times, with pages and actions loading within a reasonable timeframe.
+
+Scalability: It should be designed to handle a potentially large number of users and data without significant performance degradation.
+Reliability: The system should have a high level of uptime and availability, with minimal scheduled downtime for maintenance.
+Data Integrity: Ensure data integrity, with reliable storage and retrieval of data, preventing data corruption or loss.
+Security:Data Security: Implement robust data encryption and access control mechanisms to protect user data from unauthorized access or data breaches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

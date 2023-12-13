@@ -1,0 +1,46 @@
+<--Non Functional Requirements--> 
+Performance:  ok
+  Response Time
+  Scalability
+  Throughput 
+
+Reliability:  ok 
+
+  Availability
+  Fault Tolerance
+
+Security: ok
+  Data Privacy
+  Authentication and Authorization 
+  Data Encryption
+
+Usability  ok 
+
+  User Interface (UI): 
+  Accessibility: 
+
+Compatibility:
+
+ Browser Compatibility: 
+ Device Compatibility: 
+
+Scalability:
+  Database Scalability: 
+
+Maintainability: ok 
+  Code Maintainability: 
+  Modularity: 
+
+Interoperability:
+   Integration:
+ 
+Data Backup and Recovery:
+  Backup Strategy: 
+  Disaster Recovery: 
+
+Regulatory Compliance:
+   Performance Monitoring and Reporting
+Technical Support and Documentation:
+
+
+

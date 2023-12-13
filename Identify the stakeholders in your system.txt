@@ -1,0 +1,59 @@
+Functional Requirements:
+
+        traiine Login 
+         ( View diary
+         update
+         delete diary)
+         Calendar and Scheduling
+         Reporting and Analytics
+
+
+Non - Functional Requirements:
+
+
+
+
+
+Technical Re:
+
+ web base application
+ back end - (node)
+ front end -
+ databse -( mokdda)
+ UX Ui- Figma 
+   
+  OR
+ 	web-based Application
+	Back end – Node JS
+	Front end – React
+	Database – Mongo DB
+	UX/ UI – Figma
+
+
+
+
+Use case scenario==>   
+
+uc name -Trainner Diary
+ actor  Trainner
+Goal-  setting up a diary for trainners
+overview- when Trainer enters thier daily task into the system
+pre condition- The trainner loging to the system
+post    - Trainner update their diary
+
+basic path    step  Action
+                1   Go to the login page and enter login credentials
+                2   display in diary Page.
+                3   user updating the diary
+                4   adding additional informamtion using the form
+
+
+
+Altenative  Step  Action 
+path	
+            1.a   If the user enters a invalid login credentials suggestion foget password option to change the password
+            1.b   system ditect invalid information.
+            4.a   If the user press back  from the form page ,send user back to the dairy page
+          
+
+	

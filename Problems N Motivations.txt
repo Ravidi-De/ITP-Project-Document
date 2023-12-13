@@ -1,0 +1,131 @@
+problems and motivation
+
+   Problem 01--> Excess Head Count- (Number of excess employees)
+
+   The "Excess Headcount" problem in a company's Human Resources (HR) division refers to a scenario in which the firm has more workers or staff members than 
+   it really required to run its business activities efficiently and effectively. 
+   This overabundance of personnel can cause a variety of problems and inefficiencies within the HR department and the firm as a whole.
+   In our case The bodyline Jv as a whole employees almost 12000 people. So, for a year, around 2000 requirements are completed.
+   The biggest source of frustration inside the organization is the manual management of these requirements.
+
+   OR 
+  
+   Number of excess employees
+   The problem "Overstaffing" in the human resources (HR) division of an enterprise refers to a scenario in which the enterprise has more workers or personnel than. 
+   It really required to run its business activities efficiently and effectively. 
+   This overabundance of personnel can cause a variety of problems and inefficiencies within the HR department and the firm as a whole.
+   In our case The Bodyline JV as a whole employees almost 12000 people. So, for a year, around 2000 requirements are completed.
+   The main source of frustration within the organization is the manual management of these requirements.
+
+   Motivation 01--> 
+        The use of technology to conduct activities, processes, or sequences of actions without the need for constant human intervention is known as
+        process automation. This might include everything from simple repeated operations to complicated workflows. 
+        The aim is to eliminate human resources from routine and time-consuming tasks, allowing them to concentrate on more strategic and creative tasks.
+        A number of benefits can be offered, which are listed below.
+        Enhanced Efficiency 
+        Achieving savings on costs
+        Resources that are not being used can be scaled 
+        Increased compliance- faster turnaround times
+
+  Problem 02--> Data Inacuracy and disarticulation 
+  
+  In HR, data inaccuracy refers to inaccuracies or inconsistencies in information pertaining to employees, employment positions, benefits, payroll, and 
+  other HR-related problems. Here are a handful of instances and their consequences.Proof of HR Data Inaccuracy like,
+  Personal information (names, addresses, and personal information) in employment records that are incorrect.
+  Workers with outdated credentials or instructional materials, Salary or compensation data that are not correct,Attendance records or leave balances that are not 
+  properly reported,Errors in employee performance assessments.Proof of HR Data Inaccuracy:
+
+ Personal information (names, addresses, and personal information) in employment records that are incorrect,Workers with outdated credentials or instructional 
+ materials,Salary or compensation data that are not correct,Attendance records or leave balances that are not properly reported,Errors in employee performance 
+ assessments.
+ 
+ 
+ Data disarticulation in HR occurs when relevant HR-related information is housed in distinct systems or databases that do not communicate properly with other 
+ systems or databases. This might lead to fragmented views of employee information and impede efficient HR activities.Examples of Data Disarticulation in the HR Sector
+
+ Different software is being utilized for employee onboarding, performance management, and payroll,Separate systems have been set up place to track attendance, leave 
+ requests and benefits,Employee training records and certifications are saved in apart databases.
+
+  Motivation 02-->
+  for this we can summerize two cases.
+  Monitoring and analysis of data: Utilize data analytics tools to monitor data quality over time and identify trends or patterns related to data inaccuracies.
+  APIs and platforms for inclusion: Use APIs (Application Programming Interfaces) and integration platforms to connect disparate systems and enable 
+  data flow between them.
+
+
+ Problem 03--> There doesn't exist a system set up to track intern attendance.
+ 
+ When a company lacks a system to track intern attendance, it suggests there doesn't exist a structured process or technology in place to 
+ record when interns arrive at work, when they leave, and any time off they take. The lack of an attendance tracking system can cause a variety of issues.They are
+ Inaccurate Reporting: In the absence of a centralized system, attendance data may be manually recorded, increasing the risk of errors and inconsistencies.
+ Time wastage: hiring and management staff may spend quite a bit of time manually tracking and managing intern attendance.
+ accountability a lack of success: Interns might not consider themselves accountable for achieving consistent attendance standards.
+ Statistical difficulty:: A shortage of attendance data renders analyzing intern participation, productivity, and performance difficult.
+ Payroll and constitutional problems: Accurate attendance records have implications for payroll calculation and labor regulation compliance.
+
+     OR
+
+
+ When a company does not have a system in place to track intern attendance, it indicates that there is no structured process or technology in place 
+ to track when interns arrive at work, when they leave, and any time off they take. A lack of an attendance tracking system can lead to a variety of problems.
+ In the absence of a centralized system, attendance data may be manually recorded, increasing the risk of errors and inconsistencies.
+ Time wastage: hiring and supervisory personnel may spend a significant amount of time manually tracking and managing intern attendance.
+ accountability a lack of success: Interns might not feel obligated for achieving consistent attendance standards.
+ Statistical difficulty: A shortage of attendance data makes analyzing intern participation, productivity, and performance difficult.
+ Payroll and Compliance Issues: Accurate attendance records serve as essential for payroll calculation and labor regulation compliance.
+
+  Motivation 03-->
+
+ Create a digital system that allows interns to log their attendance, such as a web portal, mobile app, or biometric system. This could include features such as 
+ clocking in and out, requesting time off, as well as keeping track of work hours.
+
+
+ Problem 04-->Training schedule is disorganized.
+ 
+ In an IT company, an unorganized training schedule is one of the ways employee training and development activities lack structure, planning, and 
+ coordination. This can result in inefficiencies, inconsistent learning experiences, and a reduced return on investment for the company's training efforts. 
+ Here has become a more comprehensive discussion of the matter and its implications.Several problems can arise when an IT company's training schedule is disorganized:
+
+
+
+ 
+Motivation 04-->
+ 
+ A company's training schedule must be meticulously laid out and carried out to ensure that training activities are effective, efficient, and aligned with 
+ organizational goals. Trainner Calender, Here's a comprehensive solution to the problem of a disorganized training schedule.
+ Develop a centralized training calendar that defines all planned training activities for the year. Include details such as training topics,projects,Task,dates, 
+ times, instructors and venues.
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+ 
+
+  
+
+ 
+
+
+
+ 
+ 
+  
+  
+   
+   
